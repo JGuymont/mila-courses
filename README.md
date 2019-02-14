@@ -1,3 +1,8 @@
+# [IFT6759 - Advanced projects in machine learning](https://github.com/mila-iqia/ift6759/blob/master/syllabus.md)
+**Professor.** Aaron Courville
+
+**Description.** This is a course about applying machine learning theory to real-world industrial projects. The problem descriptions and the datasets come from industrial partners. Students will mainly focus on understanding a problem along with the available data and defining machine learning solutions that yield high performance. They will also acquire knowledge specific to software development for machine learning projects such as writing high-quality code and readable documentation in Python, and using collaborative tools and machine learning libraries. Finally, students will develop their (oral and written) communication skills by preparing reports and a presentation explaining the solutions they developed and the results they obtained.
+
 # [IFT 6132 - Advanced Structures Prediction and Optimization](http://www.iro.umontreal.ca/~slacoste/teaching/ift6132/W18/)
 **Professor.** Simon Lacoste-Julien
 
@@ -12,3 +17,13 @@
 **Professor.** Ioannis Mitliagkas
 
 **Description.** This course consists of an overview of the most recent theoretical publications on deep learning. For each selected publication, Dr. Mitliagkas will introduce the theoretical concepts necessary to understand the scientific approach of the authors, but also the results presented. Several topics will be covered, such as the optimization of nonconvex functions and information theory. Since the main objective of this course is to introduce participants to new research in this area, the main evaluation of this course will be in the form of a research project.
+
+# [Comp 550 - Natural Language Processing](https://horizon.mcgill.ca/pban1/bwckschd.p_disp_detail_sched?term_in=201709&crn_in=24586&search_mode_in=)
+**Professor.** Jackie Cheung
+
+**Description.** An introduction to the computational modelling of natural language, including algorithms, formalisms, and applications. Computational morphology, language modelling, syntactic parsing, lexical and compositional semantics, and discourse analysis. Selected applications such as automatic summarization, machine translation, and speech processing. Machine learning techniques for natural language processing.
+
+# IFT 6390 – Fundamentals of Machine Learning
+**Professor.** Ioannis Mitliagkas
+
+**Description.** This course is given in English. Basics of statistical and symbolic learning algorithms. Examples of applications in data mining, pattern recognition, nonlinear regression, and temporal data.
