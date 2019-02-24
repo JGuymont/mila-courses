@@ -34,7 +34,7 @@
 
 **List of projects**.
 
-* Unsupervised spam detection: [[code]](https://github.com/JGuymont/vae-anomaly-detector)    [[report]](https://github.com/JGuymont/vae-anomaly-detector/blob/master/docs/report/report.pdf)
+* Unsupervised spam detection: [[code]](https://github.com/JGuymont/vae-anomaly-detector)
 
 ## IFT 6390 – Fundamentals of Machine Learning
 
