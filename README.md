@@ -18,7 +18,7 @@
 
 **Professor.** Aaron Courville
 
-**Description.** Advanced subjects in learning algorithms: deep architectures, neural networks and non-supervised probabilistic models. [full list of lectures](https://github.com/JGuymont/mila-courses/tree/master/ift6135/lectures)
+**Description.** Advanced subjects in learning algorithms: deep architectures, neural networks and non-supervised probabilistic models. [[**full list of lectures**]](https://github.com/JGuymont/mila-courses/tree/master/ift6135/lectures)
 
 ## [IFT 6085 - Theoretical principles for deep learning](http://mitliagkas.github.io/ift6085-dl-theory-class-2019/)
 
@@ -34,7 +34,7 @@
 
 **List of projects**.
 
-* Unsupervised spam detection: [code](https://github.com/JGuymont/vae-anomaly-detector) [report](https://github.com/JGuymont/vae-anomaly-detector/blob/master/docs/report/report.pdf)
+* Unsupervised spam detection: [[code]](https://github.com/JGuymont/vae-anomaly-detector)    [[report]](https://github.com/JGuymont/vae-anomaly-detector/blob/master/docs/report/report.pdf)
 
 ## IFT 6390 – Fundamentals of Machine Learning
 
@@ -44,6 +44,6 @@
 
 **List of projects**.
 
-* Numpy multilayer perceptron: [description](https://github.com/JGuymont/mila-courses/blob/master/ift6390/assignment03/assignment03.pdf) [code](https://github.com/JGuymont/numpy-multilayer-perceptron)
+* Numpy multilayer perceptron: [[assignment]](https://github.com/JGuymont/mila-courses/blob/master/ift6390/assignment03/assignment03.pdf)    [[code]](https://github.com/JGuymont/numpy-multilayer-perceptron)
 
-* Joint Kaggle Competition McGill & UdeM: [description](https://github.com/JGuymont/mila-courses/blob/master/ift6390/assignment04/Kaggle_competition_IFT6390.pdf) [code]()
+* Joint Kaggle Competition McGill & UdeM: [[assignment]](https://github.com/JGuymont/mila-courses/blob/master/ift6390/assignment04/Kaggle_competition_IFT6390.pdf)    [[code]]()
